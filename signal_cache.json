@@ -1,0 +1,74 @@
+{
+  "AUDCAD_otc": {
+    "pair": "AUDCAD_otc",
+    "direction": "up",
+    "confidence": 0.25,
+    "time": "2025-07-08 15:23:37"
+  },
+  "EURUSD_otc": {
+    "pair": "EURUSD_otc",
+    "direction": "up",
+    "confidence": 0.25,
+    "time": "2025-07-08 15:23:37"
+  },
+  "GBPJPY_otc": {
+    "pair": "GBPJPY_otc",
+    "direction": "up",
+    "confidence": 0.25,
+    "time": "2025-07-08 15:23:37"
+  },
+  "USDJPY_otc": {
+    "pair": "USDJPY_otc",
+    "direction": "up",
+    "confidence": 0.25,
+    "time": "2025-07-08 15:23:37"
+  },
+  "AEDCNY_otc": {
+    "pair": "AEDCNY_otc",
+    "direction": "up",
+    "confidence": 0.25,
+    "time": "2025-07-08 15:23:37"
+  },
+  "BTCUSD_otc": {
+    "pair": "BTCUSD_otc",
+    "direction": "up",
+    "confidence": 0.25,
+    "time": "2025-07-08 15:23:37"
+  },
+  "AVAXUSD_otc": {
+    "pair": "AVAXUSD_otc",
+    "direction": "up",
+    "confidence": 0.25,
+    "time": "2025-07-08 15:23:37"
+  },
+  "ETHUSD_otc": {
+    "pair": "ETHUSD_otc",
+    "direction": "up",
+    "confidence": 0.25,
+    "time": "2025-07-08 15:23:37"
+  },
+  "DOGEUSD_otc": {
+    "pair": "DOGEUSD_otc",
+    "direction": "up",
+    "confidence": 0.25,
+    "time": "2025-07-08 15:23:37"
+  },
+  "AXP_otc": {
+    "pair": "AXP_otc",
+    "direction": "up",
+    "confidence": 0.25,
+    "time": "2025-07-08 15:23:37"
+  },
+  "BA_otc": {
+    "pair": "BA_otc",
+    "direction": "up",
+    "confidence": 0.25,
+    "time": "2025-07-08 15:23:37"
+  },
+  "FB_otc": {
+    "pair": "FB_otc",
+    "direction": "up",
+    "confidence": 0.25,
+    "time": "2025-07-08 15:23:37"
+  }
+}
